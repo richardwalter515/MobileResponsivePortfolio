@@ -3,5 +3,9 @@ body {
     color: black;
 }
 .container {
-    background-color: rgb(243, 235, 166);
+    background-color: rgb(255, 233, 108);
+}
+.thick-border {
+    border-width: 15px !important;
+    border-color: rgb(0, 42, 121) !important;
 }
