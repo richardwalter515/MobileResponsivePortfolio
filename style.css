@@ -3,9 +3,18 @@ body {
     color: black;
 }
 .container {
-    background-color: rgb(255, 233, 108);
+    background-color: rgb(211, 164, 34);
 }
 .thick-border {
     border-width: 15px !important;
     border-color: rgb(0, 42, 121) !important;
+}
+.card-space {
+    margin: 5px !important;
+}
+h1 {
+    color: whitesmoke;
+    border-style: double;
+    border-color: rgb(0, 42, 121);
+    margin-top: 10px;
 }
